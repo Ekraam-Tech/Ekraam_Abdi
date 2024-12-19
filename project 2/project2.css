@@ -1,0 +1,209 @@
+
+body{
+
+  background-color:rgba(245, 245, 245, 0);
+  }
+  
+    
+    .text-1{
+      background-color: green;
+      color: white;
+      text-align: center;
+      font-family: arial;
+      font-weight: bold;
+      font-size: 30px;
+      line-height: 30px;
+     
+    
+      
+    }
+    .project-2{
+      background-color: black;
+      color: white;
+      text-align: center;
+      font-family: arial;
+      font-weight: bold;
+      font-size: 10px;
+    height: 20px;
+     
+    }
+    .project-2 nav ul{
+      list-style: none;
+      padding: 0;
+    }
+    .project-2 nav ul li{
+      display: inline;
+      margin: 0 15px;
+  
+    }
+    .project-2 nav ul li a{
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  
+    .horizontal{
+      font-weight: bold;
+      font-size: 30px;
+      font-weight: bold;
+      color: black;
+      text-align: center;
+    }
+    .pragraph{
+      color: grey;
+      text-align: center;
+      font-weight: bold;
+      line-height: 4px;
+    }
+  
+  .image{
+   width: 60px;
+   height: 60px;
+  
+  
+  }
+  
+  .img0{
+    text-align: center;
+    display: block;
+  }
+  
+  .list{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    line-height: 5px;
+  }
+  .pragraph-2{
+    font-family: arial;
+    text-align: center;
+    line-height: 5px;
+   
+  }
+  .project-3{
+    font-family: arial;
+    font-weight: bold;
+    font-family: arial;
+    font-size:20px;
+    text-align: center;
+  
+    
+  }
+  .tr{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    
+  }
+  .table{
+  display: block;
+  text-align: center;
+  margin-left: 550px;
+  
+  
+  }
+  .table-1{
+    text-align: center;
+   
+  
+  }
+  
+  .contact{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 20px;
+   
+  }
+  .footer{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+   height: 30px;
+   
+  }
+  
+  
+  .full{
+    display: flex;
+    
+  
+    align-items: center;
+    min-height: 100px;
+    background-color: lightcoral;
+  
+  
+  }
+  .container{
+  border-radius: 5px;
+  box-sizing: border-box;
+  box-shadow: 0 5px 5px rgba(255, 255, 255, 0.3);
+  }
+  .full div1{
+    height:200px;
+    width: 335px;
+    background-color: aliceblue;
+   margin-left: 20px;
+  }
+  .full  div2{
+    height:200px;
+    width: 335px;
+    background-color: aliceblue;
+    margin: 60px;
+  }
+  .full  div3{
+    height:200px;
+    width:335px;
+    background-color: aliceblue;
+    margin: 60px;
+  }
+  
+  .image1{
+    margin-left: 150px;
+  }
+  .image2{
+    margin-left: 150px;
+  }
+  .image3{
+    margin-left:150px;
+  }
+  .div1-h{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+  }
+  .div2-h{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+  }
+  .div3-h{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  .prag-1{
+    font-family: arial;
+    font-style: italic;
+    text-align: center;
+  }
+  .prag-2{
+    font-family: arial;
+    font-style: italic;
+    text-align: center;
+  }
+  .prag-3{
+    font-family: arial;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  
+ 
